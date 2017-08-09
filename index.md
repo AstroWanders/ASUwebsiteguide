@@ -23,7 +23,7 @@ a. Go to _www.asu.edu/selfsub/_
 
 b. If Personal Webpage Hosting is listed as “Active”, proceed to the next step, #2.
 
-![](https://astrowanders.github.io/ASUwebsites/images/SelfSub.png)
+![](https://astrowanders.github.io/ASUwebsiteguide/images/SelfSub.png)
 
 c. If Personal Webpage Hosting is _not_ active, then simply click it at the bottom of the webpage and subscribe to it. 
 More information is available [here](https://copp-community.asu.edu/content/how-self-subscribe-asurite-domain-computer-service).
@@ -32,7 +32,7 @@ More information is available [here](https://copp-community.asu.edu/content/how-
 
 Since you have yet to upload material onto your website, but you have an active webpage subscription, the following will appear 
 
-![](https://astrowanders.github.io/ASUwebsites/images/PublicASUweb.png)
+![](https://astrowanders.github.io/ASUwebsiteguide/images/PublicASUweb.png)
 
 We will make note of these instructions for later.
 
@@ -64,7 +64,7 @@ Unzip the Kreo folder in your local Downloads folder. You should find the follow
 | Folder/File    | Purpose                                                 |
 |:---------------|:--------------------------------------------------------|
 | css            | CSS stands for “Cascading Style Sheets”. The css files in this folder define style definitions in this template. You will edit main.css to define the directory your background image is in later. |
-| favicon.png    | This is the icon that will appear on your browser, like the blue one on this one. ![](https://astrowanders.github.io/ASUwebsites/images/tab.png) |
+| favicon.png    | This is the icon that will appear on your browser, like the blue one on this one. ![](https://astrowanders.github.io/ASUwebsiteguide/images/tab.png) |
 | fonts          | As you can gather from the name, this folder contains fonts that will appear on your website. **_It is not necessary to alter this folder._** |
 | images         | This is where you will place images that will appear on your website. |
 | inc            | There is only one file in this folder: _sendEmail.php_ This is intended for the “Contact” section of your website. |
@@ -78,7 +78,7 @@ You can open index.html in your favorite browser to take a look at the template.
 
 There are many ways to edit the Kreo template. I like Adobe Dreamweaver because you can also use it to connect to a remote server, which will need to do in the next step to publish your website. Dreamweaver comes with an Adobe Creative Cloud subscription, or you can download a [free trial here](https://creative.adobe.com/products/download/dreamweaver?promoid=T32PLZSW&mv=other). This is what index.html should look like when you open it in Dreamweaver, set to “split” screen:
 
-![](https://astrowanders.github.io/ASUwebsites/images/Dreamweaver.png)
+![](https://astrowanders.github.io/ASUwebsiteguide/images/Dreamweaver.png)
 
 The top is the “live” view - it’s the same as what you saw when you opened index.html in your browser. The bottom is the corresponding “code”. When you make changes in the code, it will be reflected in the live view. 
 
@@ -147,15 +147,15 @@ Alternatively, you can change the classes from _flexslider_ and _slides_ to _row
 If you are using Dreamweaver, you can make an SFTP connection by going to Site → Manage Sites. Straightforward directions are on [Adobe’s website](https://helpx.adobe.com/dreamweaver/using/connect-remote-server.html).
 
 To check that your files have been uploaded, you can go to your files from My ASU
-![](https://astrowanders.github.io/ASUwebsites/images/MyFiles.png)
+![](https://astrowanders.github.io/ASUwebsiteguide/images/MyFiles.png)
 
 Alternatively, you can upload all of your files directly to your files on My ASU. 
 
 When you go to your files, you will see under a _www_ folder. This is where your website lives. 
-![](https://astrowanders.github.io/ASUwebsites/images/MyFilesWWW.png)
+![](https://astrowanders.github.io/ASUwebsiteguide/images/MyFilesWWW.png)
 
 All files in your local website folder should be in your _www_ folder. If you encounter any path errors, it is because your directory paths in your local folder do are not the same as the _www_ folder.
-![](https://astrowanders.github.io/ASUwebsites/images/MyFilesWWW2.png)
+![](https://astrowanders.github.io/ASUwebsiteguide/images/MyFilesWWW2.png)
 
 # [](#header-1) About the author
 
