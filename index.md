@@ -32,7 +32,7 @@ More information is available [here](https://copp-community.asu.edu/content/how-
 
 Since you have yet to upload material onto your website, but you have an active webpage subscription, the following will appear 
 
-![](https://astrowanders.github.io/ASUwebsiteguide/images/PublicASUweb.png)
+![](https://astrowanders.github.io/ASUwebsiteguide/images/PublicASUweb.png) <!-- .element height="50%" width="50%" -->
 
 We will make note of these instructions for later.
 
@@ -147,7 +147,7 @@ Alternatively, you can change the classes from _flexslider_ and _slides_ to _row
 If you are using Dreamweaver, you can make an SFTP connection by going to Site → Manage Sites. Straightforward directions are on [Adobe’s website](https://helpx.adobe.com/dreamweaver/using/connect-remote-server.html).
 
 To check that your files have been uploaded, you can go to your files from My ASU
-![](https://astrowanders.github.io/ASUwebsiteguide/images/MyFiles.png)
+![](https://astrowanders.github.io/ASUwebsiteguide/images/MyFiles.png) <!-- .element height="30%" width="30%" -->
 
 Alternatively, you can upload all of your files directly to your files on My ASU. 
 
