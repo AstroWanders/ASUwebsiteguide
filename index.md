@@ -147,8 +147,7 @@ Alternatively, you can change the classes from _flexslider_ and _slides_ to _row
 If you are using Dreamweaver, you can make an SFTP connection by going to Site → Manage Sites. Straightforward directions are on [Adobe’s website](https://helpx.adobe.com/dreamweaver/using/connect-remote-server.html).
 
 To check that your files have been uploaded, you can go to your files from My ASU
-![](https://astrowanders.github.io/ASUwebsiteguide/images/MyFiles.png)
-<img src="https://astrowanders.github.io/ASUwebsiteguide/images/MyFiles.png" width="48">
+<img src="https://astrowanders.github.io/ASUwebsiteguide/images/MyFiles.png" width="500">
 
 Alternatively, you can upload all of your files directly to your files on My ASU. 
 
