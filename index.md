@@ -23,7 +23,7 @@ a. Go to _www.asu.edu/selfsub/_
 
 b. If Personal Webpage Hosting is listed as “Active”, proceed to the next step, #2.
 
-![](https://astrowanders.github.io/ASUwebsiteguide/images/SelfSub.png width="500px")
+![](https://astrowanders.github.io/ASUwebsiteguide/images/SelfSub.png) <!-- .element height="50%" width="50%" -->
 
 c. If Personal Webpage Hosting is _not_ active, then simply click it at the bottom of the webpage and subscribe to it. 
 More information is available [here](https://copp-community.asu.edu/content/how-self-subscribe-asurite-domain-computer-service).
