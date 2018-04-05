@@ -23,7 +23,7 @@ a. Go to _www.asu.edu/selfsub/_
 
 b. If Personal Webpage Hosting is listed as “Active”, proceed to the next step, #2.
 
-![](https://astrowanders.github.io/ASUwebsiteguide/images/SelfSub.png) <!-- .element height="50%" width="50%" -->
+<img src="https://astrowanders.github.io/ASUwebsiteguide/images/SelfSub.png" width="500">
 
 c. If Personal Webpage Hosting is _not_ active, then simply click it at the bottom of the webpage and subscribe to it. 
 More information is available [here](https://copp-community.asu.edu/content/how-self-subscribe-asurite-domain-computer-service).
@@ -32,7 +32,7 @@ More information is available [here](https://copp-community.asu.edu/content/how-
 
 Since you have yet to upload material onto your website, but you have an active webpage subscription, the following will appear 
 
-![](https://astrowanders.github.io/ASUwebsiteguide/images/PublicASUweb.png) <!-- .element height="50%" width="50%" -->
+<img src="https://astrowanders.github.io/ASUwebsiteguide/images/PublicASUweb.png" width="500">
 
 We will make note of these instructions for later.
 
@@ -147,7 +147,7 @@ Alternatively, you can change the classes from _flexslider_ and _slides_ to _row
 If you are using Dreamweaver, you can make an SFTP connection by going to Site → Manage Sites. Straightforward directions are on [Adobe’s website](https://helpx.adobe.com/dreamweaver/using/connect-remote-server.html).
 
 To check that your files have been uploaded, you can go to your files from My ASU
-<img src="https://astrowanders.github.io/ASUwebsiteguide/images/MyFiles.png" width="500">
+<img src="https://astrowanders.github.io/ASUwebsiteguide/images/MyFiles.png" width="300">
 
 Alternatively, you can upload all of your files directly to your files on My ASU. 
 
